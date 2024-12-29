@@ -1,0 +1,132 @@
+body{
+    background-color: rgb(255, 255, 255);
+    font-family: monospace;
+}
+NAV{
+ height: 15vw;
+ width: 100%;   
+ background-color: rgb(41,41,41);   
+}   
+H1{   
+    -webkit-text-stroke: #ffffff 0.8px;
+    font-family:'Segoe UI', Tahoma, sans-serif;
+ font-size: 6vw;   
+ font-style: italic;   
+ color: rgb(245, 229, 1);
+ transform: 3s;
+}
+*{
+padding: 0;
+margin: 0;
+text-decoration: none;
+list-style: none;
+box-sizing: border-box;
+}
+label.LOGO{
+color: aliceblue;
+font-size: 45PX;
+line-height: 90PX;
+padding: 0 100PX;
+font-weight: BOLD;
+}
+NAV UL{
+float: right;
+margin-right: 20px;
+}
+nav ul li{
+display: inline-block;
+line-height: 80px;
+margin: 0 50px;
+}
+nav ul li a{
+color: aliceblue;
+font-size: 2.3vw;
+padding: 7px 13px;
+border-radius: 3px;
+text-transform: uppercase;
+text-shadow: #ffffff 0.5;
+
+}
+a.active,a:hover{
+background: #ec0404;
+transform:5s ;
+}
+.BOLG{
+    font-size: 1.5vw;
+    color: black;
+    font-family: 'Courier New', Courier, monospace;
+    font-style: italic;
+}
+H3{
+    font-size: 1.2vw;
+    color: black;
+    font-family: 'Courier New', Courier, monospace;
+    font-style: italic;
+    margin-left: 5vw;
+    -webkit-text-stroke: #000 1px;
+   font-family:'Segoe UI', Tahoma, sans-serif;
+}
+h2{
+    font-size: 5vw;
+    margin-left: 15vw;
+    font-weight:900 bold;
+    -webkit-text-stroke: #000 0.7px;
+}
+#oly{
+    height: 23vw;
+    width: 80%;
+    margin-left: 13vw;
+    -ms-zoom-animation: inherit;
+    margin-top: 3.5vw;
+}
+#ola{
+    height: 15vw;
+    width: 80%;
+    margin-left: 11vw;
+}
+#ol{
+    height: 19vw;
+    width: 80%;
+    margin-left: 11vw;
+}
+#o{
+    height: 22.5vw;
+    width: 80%;
+    margin-left: 11vw;
+}
+.copy{
+    background-color:black ;
+    -webkit-text-stroke: #ffffff 3px;
+    font-family:'Segoe UI', Tahoma, sans-serif;
+    color: yellow;
+}
+#CO{
+    font-size: 6.6vw; 
+    font-style: italic;   
+    color: rgb(245, 229, 1); 
+    -webkit-text-stroke: #ffffff 3px;
+    font-family:'Segoe UI', Tahoma, sans-serif;
+}
+.COP{
+    background-color:rgb(17, 17, 17) ;
+     color: #ffffff;
+     -webkit-text-stroke: #000000 1px;
+     font-family:'Segoe UI', Tahoma, sans-serif;
+     border-bottom: #ffffff 1vw;
+     box-sizing: border-box;
+     border-style: double;
+     margin-top: 0.1vw;
+}
+H5{
+    font-size: 5.5vw;
+    color: #ffffff;   
+    -webkit-text-stroke: #0051ff 1.5px;
+    font-family:'Segoe UI', Tahoma, sans-serif;
+}
+#H1{   
+    font-size: 3vw;   
+    font-style: italic;   
+    color: rgb(0, 0, 0);
+    -webkit-text-stroke: #0051ff 0.5px;
+    font-family:'Segoe UI', Tahoma, sans-serif;
+   }
